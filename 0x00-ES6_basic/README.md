@@ -1,1 +1,1 @@
-ES6 Basics project
+# ES6 Placeholder
