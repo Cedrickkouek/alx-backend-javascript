@@ -1,4 +1,4 @@
-const getListStudentsIds = (listStudents) =>{
+const getListStudentsIds = (listStudents) => {
     let listStudentIds = [];
     if(!(listStudents instanceof Array)) {
         return listStudentIds;
@@ -8,4 +8,3 @@ const getListStudentsIds = (listStudents) =>{
 };
 
 export default getListStudentsIds;
-1-get_list_student_ids.js
