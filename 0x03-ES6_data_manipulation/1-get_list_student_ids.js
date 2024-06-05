@@ -4,6 +4,7 @@ const getListStudentsIds = (listStudents) =>{
         return listStudentIds;
     }
     listStudentIds = listStudents.map((student) => student.id);
+    return listStudentIds;
 };
 
 export default getListStudentsIds;
